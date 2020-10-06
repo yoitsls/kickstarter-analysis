@@ -1,5 +1,5 @@
 # kickstarter-analysis
-Performing analysis on Kickstarter data to uncover trends
+Performing analysis on Kickstarter data to uncover trends.
 ## Overview of data
 The purpose of this analysis was to visualize the campaign outcomes of number of projects ("successful," "failed," and "canceled"). We want to visualize the relationship between outcomes and launch month. Then find the subcategory column using plays as a criteria. Lastly we want to create a line chart titled "Outcomes Based on Goal" to visualize the relationship between the goal-amount ranges on the x-axis and the percentage of successful, failed, or canceled projects on the y-axis.
 ### Theater Outcomes Based on Launch Date Conclusion
