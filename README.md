@@ -7,9 +7,9 @@ The purpose of this analysis was to visualize the campaign outcomes of number of
 <img src= "Theater_Outcomes_vs_Launch.png">
   </center>
 My conclusion on the data i got for Theater outcomes based on launch, it showed there were more successful theater movies in the summer time May-August. My last conclusion is the amount of movies that also failed around the same time but more Theater category seem to succeed. In conclusion it seems like Theater movies do better when they launch in the summer time but tend to still do good through the year as the grand total of successful movies doubles at 893 than the ones that have failed at 493.
-#### Analysis and Challenges Theater Outcomes Based on Launch Date
+### Analysis and Challenges Theater Outcomes Based on Launch Date
 There was no complication for this section, i think the complicated thing about this section was changing the row labels from the specific dates and times to just the months, it took me a while to figure it out but it turned out to be pretty simple.
-##### Outcomes based on Goals conclusion and challenges
+### Outcomes based on Goals conclusion and challenges
 <center>
   <img src= "Outcomes_vs_Goals.png">
   </center>
